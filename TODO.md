@@ -1,0 +1,3 @@
+- [ ] Proper squirting sound and animation (you know, the white stuff...)
+- [ ] Ensure framerate independence and allow the game to exceed 30 FPS without any changes in speed
+- [ ] Enhanced speed controller
