@@ -5,7 +5,7 @@ A very sussy simulator. Nothing to see here. 🙂
 
 **⚠️ WARNING: May contain sensitive imagery.**
 
-See [here](/BUILDING.md) for building instructions.
+See [here](/BUILDING.md) for building instructions. [Here](/TODO.md) are planned features.
 
 The [code of this game](/project.json) is licensed under GNU GPL v3. Copyright © 2023 Aidan F. and IverCoder.
 
