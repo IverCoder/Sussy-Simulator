@@ -3,6 +3,8 @@
 
 A very sussy simulator. Nothing to see here. 🙂
 
+**⚠️ WARNING: May contain sensitive imagery.**
+
 See [here](/BUILDING.md) for building instructions.
 
 The [code of this game](/project.json) is licensed under GNU GPL v3. Copyright © 2023 Aidan F. and IverCoder.
