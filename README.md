@@ -1,4 +1,6 @@
 # Sussy-Simulator
+[<img src="/badge.png" alt="Available on itch.io" width="30%">](https://ivercoder.itch.io/sussy-simulator)
+
 A very sussy simulator. Nothing to see here. 🙂
 
 See [here](/BUILDING.md) for building instructions.
